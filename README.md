@@ -6,7 +6,7 @@ This project is an interactive Excel dashboard built using Superstore sales data
 The goal of this project is to demonstrate Excel skills in data cleaning, Pivot Tables, Pivot Charts, KPI creation, dashboard design, and business insight generation.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Superstore_sales_Dashboard/dashboard_screenshot.png.png)
 
 ## Dataset
 Source: Kaggle - Superstore Sales Dataset  
